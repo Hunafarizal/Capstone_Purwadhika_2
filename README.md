@@ -48,4 +48,4 @@ Menggunakan dataset `Transjakarta.csv` bulan April 2023. [Download di sini](http
 Refer ke file Capstone2.ipynb
 
 
-[**Dashboard**](https://public.tableau.com/app/profile/)
+[**Dashboard**](https://public.tableau.com/app/profile/hunafa.rizal.aqli/viz/AnalisaMarketingTransjakarta/JumlahPenggunaandanRevenueOpsiPembayara?publish=yes)
