@@ -1,8 +1,6 @@
 # Capstone Project PART 2 (DATA ANALYSIS) - Tangan Kedua Tim Marketing Transjakarta
 
-<p align="center">
-  <img src="./docs/header.png" alt="Header" width="800" height="400">
-</p>
+
 
 ## Context
 Capstone ini ditujukan untuk membantu Tim Marketing Transjakarta menentukan strategi promosi dan pemasaran mereka yang paling efisien berdasarkan data yang ada
